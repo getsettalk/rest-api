@@ -6,5 +6,3 @@ return [
     '/api/users/{id:[a-zA-Z0-9]+}' => 'ApiController@getUserID',
     // Add more routes as needed
 ];
-
-
